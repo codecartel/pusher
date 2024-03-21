@@ -28,7 +28,7 @@ defmodule Pusher.Mixfile do
 
   defp deps do
     [
-      {:httpoison, "~> 1.0"},
+      {:httpoison, "~> 2.0"},
       {:signaturex, "~> 1.4"},
       {:jason, "~> 1.0"},
       {:websockex, "~> 0.4.0"},
